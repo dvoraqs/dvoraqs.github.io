@@ -1,6 +1,6 @@
 # Interesting Overtime
 
-This blog uses (Jekyll)[http://jekyllrb.com/]. 
+This blog uses [Jekyll](http://jekyllrb.com/). 
 
 If you're setting it up for the first time, run `gem install jekyll bundler`.
 
