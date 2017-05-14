@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Visualizing Dependencies"
+title:  "Divorcing Code"
 categories: java neo4j dependency intellij
 ---
 Let me tell you the story of my Github repository (intellij-dependency-grapher)[https://github.com/dvoraqs/intellij-dependencies-grapher]. It's not my best work and it doesn't even do it's job all that well, but I'm still proud of it because it is a symbol of many things I value. 
