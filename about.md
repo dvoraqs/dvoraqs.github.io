@@ -16,4 +16,9 @@ Some of those things I will want to brag about -- I did a thing and it does some
 
 ## Who I am
 
-John Beaumier, Consultant Software Developer for ThoughtWorks, reporting.
+John Beaumier, Consultant Software Developer for ThoughtWorks, reporting. 
+
+```
+Hi, world!
+```
+I am interested in finding ways to make life better -- through software and in person. I am working on myself as a developer, a friend, and a member of the community in order to contribute what I can and try to be a good example for others. Even if no one else is watching, I am.
